@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"demo.starwars.dto","l":"ApiResponse"},{"p":"demo.starwars","l":"Main"},{"p":"demo.starwars.dto","l":"People"}]
